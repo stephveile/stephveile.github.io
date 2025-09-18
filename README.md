@@ -1,1 +1,3 @@
-# stephveile.github.io
+layout: page
+title: "HOME"
+permalink: /home
