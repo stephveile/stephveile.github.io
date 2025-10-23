@@ -5,5 +5,8 @@
     <p>
       <a href="https://docs.google.com/document/d/1hbfs9wsd-GqEcokxqWFLzgeXp-LRwKGca2ovsxd4DHw/edit?tab=t.0#heading=h.ymi089liagec">Steph's Resume</a>
     </p>
+    <p>
+      <a href="https://stephveile.github.io">Home</a>
+    </p>
   </body>
 </html>
