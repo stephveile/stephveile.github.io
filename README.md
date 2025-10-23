@@ -2,13 +2,13 @@
 <html>
   <body>
     <p>
-      <a href="https://stephveile.github.io/contact">Contact</a>
+      Navigate to my <a href="https://stephveile.github.io/contact">contact</a> page!
     </p>
     <p>
-      <a href="https://stephveile.github.io/projects">Projects</a>
+      Explore some of my new <a href="https://stephveile.github.io/projects">projects</a>.
     </p>
     <p>
-      <a href="https://stephveile.github.io/resume">Resume</a>
+      See my <a href="https://stephveile.github.io/resume">resume</a>.
     </p>
   </body>
 </html>
