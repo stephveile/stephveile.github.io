@@ -1,6 +1,11 @@
+![StephanieVeile](IMG_0919.jpg)
 
 <html>
   <body>
+    <p>
+      
+    </p>
+    
     <p>
       Navigate to my <a href="https://stephveile.github.io/contact">contact</a> page!
     </p>
