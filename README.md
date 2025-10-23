@@ -1,10 +1,14 @@
 
 <html>
   <body>
-    <a href="https://stephveile.github.io/contact">Contact</a>
-    </br>
-    <a href="https://stephveile.github.io/projects">Projects</a>
-    </br>
-    <a href="https://stephveile.github.io/resume">Resume</a>
+    <p>
+      <a href="https://stephveile.github.io/contact">Contact</a>
+    </p>
+    <p>
+      <a href="https://stephveile.github.io/projects">Projects</a>
+    </p>
+    <p>
+      <a href="https://stephveile.github.io/resume">Resume</a>
+    </p>
   </body>
 </html>
