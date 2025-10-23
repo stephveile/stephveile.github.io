@@ -1,12 +1,12 @@
 
 <html>
 <head>
-<title>Contact</title>
+ Contact Me
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<p>Email: veile.steph@gmail.com</p>
+<p>LinkIn: www.linkedin.com/in/stephanie-veile</p>
 
 </body>
 </html>
