@@ -1,5 +1,4 @@
 <html>
-  <link href="style.css" rel="stylesheet"></link>
   <body>
     <img src="/resources/IMG_0919.jpg" alt="StephanieVeile" width="200"/>
     <p>
