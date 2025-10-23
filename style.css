@@ -5,3 +5,8 @@
 img {
   border: 5px solid black;
 }
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
